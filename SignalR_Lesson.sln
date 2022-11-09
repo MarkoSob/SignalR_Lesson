@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_API_Server", "SignalR_Lesson\SignalR_API_Server.csproj", "{3EABF8FE-D40B-45BA-9880-AA11C32634B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_Client", "SignalR_Client\SignalR_Client.csproj", "{330C4FD1-7430-41A0-BDF9-4DE8D49BE01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EABF8FE-D40B-45BA-9880-AA11C32634B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EABF8FE-D40B-45BA-9880-AA11C32634B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EABF8FE-D40B-45BA-9880-AA11C32634B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EABF8FE-D40B-45BA-9880-AA11C32634B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330C4FD1-7430-41A0-BDF9-4DE8D49BE01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330C4FD1-7430-41A0-BDF9-4DE8D49BE01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330C4FD1-7430-41A0-BDF9-4DE8D49BE01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330C4FD1-7430-41A0-BDF9-4DE8D49BE01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7227D14-407A-4292-B5D3-E9E7C3FE2A15}
+	EndGlobalSection
+EndGlobal
